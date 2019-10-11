@@ -29,3 +29,16 @@
  * --/The Heart of Build System/-- of "memorable®".
  * ___________________________________________________________________________
  */
+
+// "requireSpaceAfterLineComment": { "allExcept": ["#", "="] }
+// "disallowMultipleSpaces": {"allowEOLComments": true}
+// "disallowSemicolons": false
+// "requireSemicolons": true
+// "disallowAnonymousFunctions": true
+
+// global __dirname: true
+// global require: true
+
+// # Usage: $ node -v
+// # Usage: $ npm -v
+// # Usage: $ grunt -version

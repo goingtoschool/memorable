@@ -39,6 +39,9 @@
 // global __dirname: true
 // global require: true
 
+// Invoking strict mode.
+"use strict";
+
 // # Usage: $ node -v
 // # Usage: $ npm -v
 // # Usage: $ grunt -version
